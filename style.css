@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+  }
+  
+  .header {
+    background-color: orange;
+    padding: 20px;
+  } 
+  
+  .menu a {
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;  
+  }
+  
+  .content {
+    padding: 20px; 
+  }
+  
+  .footer {
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+  }
